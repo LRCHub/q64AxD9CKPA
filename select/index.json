@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Beyond the Journey's End",
+  "base_artist": "Evan Call",
+  "createdAt": "2026-03-29T12:42:56.667960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Upon the Journey's End",
+      "artist": "Taylor Dayne",
+      "has_synced": true,
+      "path": "select/01_Upon_the_Journey's_End_Taylor_Dayne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Journey's End",
+      "artist": "Strawbs",
+      "has_synced": true,
+      "path": "select/02_The_Journey's_End_Strawbs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Journey's End",
+      "artist": "Nightingale",
+      "has_synced": false,
+      "path": "select/03_The_Journey's_End_Nightingale.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Journey's End",
+      "artist": "Paragon",
+      "has_synced": false,
+      "path": "select/04_The_Journey's_End_Paragon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Upon The Journey's End",
+      "artist": "Taylor Dayne",
+      "has_synced": true,
+      "path": "select/05_Upon_The_Journey's_End_Taylor_Dayne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Upon The Journey's End",
+      "artist": "Taylor Dayne & Billy T. Scott",
+      "has_synced": true,
+      "path": "select/06_Upon_The_Journey's_End_Taylor_Dayne_&_Billy_T._Scott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Upon The Journey's End (With Billy T. Scott)",
+      "artist": "Taylor Dayne",
+      "has_synced": true,
+      "path": "select/07_Upon_The_Journey's_End_(With_Billy_T._Scott)_Taylor_Dayne.lrc"
+    }
+  ]
+}
